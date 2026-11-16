@@ -1,0 +1,11 @@
+{
+  "name": "veldo",
+  "displayName": "Veldo",
+  "version": "0.1.1",
+  "description": "Make your Claude your cofounder. Veldo remembers your startup, why you decided things and your best next move, and holds you to it.",
+  "author": {
+    "name": "Axus",
+    "url": "https://veldo.co"
+  },
+  "homepage": "https://veldo.co"
+}

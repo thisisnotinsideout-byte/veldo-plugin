@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "veldo": {
+      "type": "http",
+      "url": "https://veldo.co/mcp"
+    }
+  }
+}

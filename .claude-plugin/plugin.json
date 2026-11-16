@@ -1,11 +1,20 @@
 {
   "name": "veldo",
   "displayName": "Veldo",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Make your Claude your cofounder. Veldo remembers your startup, why you decided things and your best next move, and holds you to it.",
   "author": {
     "name": "Axus",
+    "email": "support@veldo.co",
     "url": "https://veldo.co"
   },
-  "homepage": "https://veldo.co"
+  "homepage": "https://veldo.co",
+  "repository": "https://github.com/thisisnotinsideout-byte/veldo-plugin",
+  "license": "MIT",
+  "keywords": ["startup", "founder", "cofounder", "memory", "decisions"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://veldo.co/docs",
+  "supportUrl": "https://veldo.co/docs",
+  "privacyPolicyUrl": "https://veldo.co/privacy",
+  "termsOfServiceUrl": "https://veldo.co/terms"
 }

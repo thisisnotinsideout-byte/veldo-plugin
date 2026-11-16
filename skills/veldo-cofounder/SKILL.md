@@ -40,6 +40,9 @@ If `startup_memory_load` says there's no picture yet:
 - Save changes as they happen with `startup_memory_update`: swap just the text that changed. Don't wait for the end of the chat.
 - Use `startup_memory_rewrite` only for a big rewrite or the first picture.
 - When they correct or change a fact, save it right away. Don't ask whether to.
+- Each save also updates "Changed since last time" in the picture, so it always says what's new.
+- If what they describe sounds like a different startup from the picture, ask before saving anything.
+- Date each decision by when it was made. If they don't say, write "decided by" and today's date.
 - Tell them in one line that you saved it.
 - The picture is the summary; details live in the library. Search it with `startup_memory_search` when a question needs detail. One fact or topic per detail.
 
